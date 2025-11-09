@@ -1,6 +1,6 @@
 ### Data preparation:
-- Dataset is available at the Synapse website (https://www.synapse.org/Synapse:syn3193805/files/) Or download the Synapse data following the Data preparation section of https://github.com/SLDGroup/EMCAD/tree/main
-
+- The dataset is publicly available on the Synapse website:  [https://www.synapse.org/Synapse:syn3193805/files/](https://www.synapse.org/Synapse:syn3193805/files/) and the preprocessing was conducted following the **Data preparation** procedure described in the [EMCAD repository](https://github.com/SLDGroup/EMCAD/tree/main).
+  
 - Move train and test images into the root path: data_sets/Synapse/dataset13classes and naming train and test: `train_npz_new`,`test_vol_h5_new` respectively
 
 ### Training:
